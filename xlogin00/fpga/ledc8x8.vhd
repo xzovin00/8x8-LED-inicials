@@ -1,4 +1,4 @@
--- Autor reseni: SEM DOPLNTE VASE, JMENO, PRIJMENI A LOGIN
+-- Autor reseni: Martin Žovinec xzovin00
 
 library IEEE;
 use IEEE.std_logic_1164.all;
